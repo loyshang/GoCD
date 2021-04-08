@@ -1,5 +1,5 @@
 #!/bin/bash
-error_limit=334
+error_limit=50
 
 cd ari
 echo $(pwd)
