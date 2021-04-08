@@ -1,4 +1,6 @@
 #!/bin/bash
+
+echo "eslint test"
 echo $(pwd)
 cd ../ari
 echo $(pwd)
